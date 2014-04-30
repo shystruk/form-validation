@@ -8,7 +8,7 @@ In this form we check:
 - email field must be like an email address;
 - textarea field has been filled out.
 
-<strong>References</strong>
+References
 ===========================
 
 Create HTML page with form and add the id "form_<name field>" for fields.
