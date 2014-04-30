@@ -9,6 +9,7 @@ In this form we check:
 - textarea field has been filled out.
 
 <strong>References</strong>
+===========================
 
 Create HTML page with form and add the id "form_<name field>" for fields.
 Look like this:
@@ -27,5 +28,5 @@ Look like this:
     </div>
     <button type="submit" id="submit">Submit</button>
 </form>
-=======
+
 
