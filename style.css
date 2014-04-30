@@ -11,3 +11,6 @@ form div {
 .valid {
     border: 2px solid #008000;
 }
+.invalid {
+	border: 2px solid #FF0000;
+}
