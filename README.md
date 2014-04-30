@@ -12,6 +12,8 @@ In this form we check:
 
 Create HTML page with form and add the id "form_<name field>" for fields.
 Look like this:
+
+<html>
 <form method="post" action="" id="player">
     <div>
         <input type="text" name="name" placeholder="Name" size="30" id="form_name">
@@ -27,4 +29,4 @@ Look like this:
     </div>
     <button type="submit" id="submit">Submit</button>
 </form>
-
+</html>
