@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Validation Form by V.S.12</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+</head>
+<body>
+    <h1>Who is the best basketball player in the world ?</h1>
+    <form method="post" action="" id="player">
+        <div>
+            <input type="text" name="name" placeholder="Name" size="30" id="form_name">
+            <span class="name-false">Please enter name</span>
+        </div>
+        <div>
+            <input type="text" name="email" placeholder="Email" size="30" id="form_email">
+            <span class="email-false">Please enter an email address</span>
+        </div>
+        <div>
+            <textarea name="field" placeholder="Lebron James" cols="22" id="form_field"></textarea>
+            <span class="field-false">Please write a player</span>
+        </div>
+        <button type="submit" id="submit">Submit</button>
+    </form>
+</body>
+</html>
