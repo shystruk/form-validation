@@ -33,10 +33,10 @@ $(document).ready(function(){
         var symbols = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
         var emailValid = symbols.test(input.val());
         if (emailValid) {
-            input.addClass('valid');
+            input.addClass('valid').removeClass('invalid');
             emailFalse.hide();
         } else {
-            emailFalse.show();
+            input.addClass('invalid');
         }
     });
 
