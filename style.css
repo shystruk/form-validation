@@ -1,0 +1,13 @@
+form div {
+    margin: 10px 0;
+}
+.name-false, .email-false, .field-false {
+    display: none;
+    color: #FF0000;
+}
+.error {
+    display: inline;
+}
+.valid {
+    border: 2px solid #008000;
+}
