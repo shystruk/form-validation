@@ -149,10 +149,9 @@ button.on('click', function(event){
 
 Information
 ============
-If you have some question, problem or improvement for this form we may any time to disccuss it.
-Create issue or send email - ***wystruk@ukr.net***
+If you have some question, problem or improvement for this form create issue and we will disccuss.<br/>
 Thank you!
 
-Licanse
+License
 ========
 [MIT License](http://opensource.org/licenses/mit-license.php)
