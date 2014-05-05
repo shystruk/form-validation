@@ -47,7 +47,7 @@ If we want to work with **jQuery** we must download or include jQuery library - 
 Now we have complete **html** file. We give name ***index.html***.
 
 ###jQuery
-In ***main.js*** file we write code for validation form:
+In ***main.js*** file we write code for validation form:<br/>
 First we write *function*:
 ```javascript
 $(document).ready(function(){
@@ -149,7 +149,7 @@ button.on('click', function(event){
 
 Information
 ============
-If you have some question, problem or improvement for this form create issue and we will disccuss.<br/>
+If you have some question, problem or improvement for this form create issue and we will discuss.<br/>
 Thank you!
 
 License
