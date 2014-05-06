@@ -1,5 +1,5 @@
 /**
- * Created by v.stokolosa on 4/28/14.
+ * Created by V.S.12 on 4/28/14.
  */
 $(document).ready(function(){
     <!-- Form variables -->
