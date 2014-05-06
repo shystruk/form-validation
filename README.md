@@ -9,7 +9,7 @@ In this form we check:
 
 ###References
 
-Create HTML page with form and add the id ***"form_<name field>"*** for fields.<br/>
+Create HTML page with form and add the id ***"form_*** *nameField"* for fields.<br/>
 Look like this:
 ```html
 <h1>Who is the best basketball player in the world ?</h1>
