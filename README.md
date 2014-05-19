@@ -149,7 +149,7 @@ button.on('click', function(event){
 
 Information
 ============
-If you have some question, problem or improvement for this form create issue and we will discuss.<br/>
+If you have some questions, problems or improvement for this form create issue and we will discuss.<br/>
 Thank you!
 
 License
