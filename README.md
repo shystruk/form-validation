@@ -1,4 +1,4 @@
-Validation of Form by jQuery
+Form Validation
 ============================
 Every form must be validate. In this form we check fields and alert users about errors before they submit the form.
 
