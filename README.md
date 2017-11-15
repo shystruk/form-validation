@@ -7,6 +7,8 @@ In this form we check:
 - email field must be like an email address;
 - textarea field has been filled out.
 
+![](demo.gif)
+
 ###References
 
 Create HTML page with form and add the id ***"form_*** *nameField"* for fields.<br/>
